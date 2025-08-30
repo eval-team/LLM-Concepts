@@ -205,7 +205,6 @@ ehthumbs_vista.db
 *.tflite
 
 # Data files
-*.csv
 *.json
 *.parquet
 *.feather
