@@ -8,8 +8,43 @@ This project contains Jupyter notebooks and Python scripts that demonstrate vari
 
 ## Contents
 
-- `hello_world.ipynb` - A simple introductory Jupyter notebook with basic Python examples
-- More notebooks and examples to be added...
+1. Retrieval System Architecture
+   1.1 Hybrid retrieval techniques
+   1.2 Chunking Strategies
+      - `1. Retrieval System Architecture\1.2 Chunking strategies\syntax-aware-preserving-code-doc-semantics.ipynb`: demonstrating syntax-aware chunking strategies that preserve code and documentation semantics.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Setup
 
